@@ -1,0 +1,1 @@
+Valid Acc	Geo Loss	Clasfi Loss	Uncertainty Loss	
